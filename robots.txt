@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://micheleghezzi.github.io/dottore-agronomo/sitemap.xml
