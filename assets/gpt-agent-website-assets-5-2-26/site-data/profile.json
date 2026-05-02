@@ -1,0 +1,90 @@
+{
+  "last_verified": "2026-05-02",
+  "person": {
+    "name": "Dott. Agr. Michele Ghezzi",
+    "professional_title": "Dottore Agronomo",
+    "positioning_it": "Consulenza agronomica per piccoli frutti, colture biologiche e sistemi sostenibili",
+    "summary_it": "Dott. Agr. Michele Ghezzi supporta aziende agricole nello sviluppo di protocolli tecnici per piccoli frutti, orticoltura, colture fuori suolo e gestione sostenibile della fertilizzazione, con particolare attenzione a microrganismi utili, matrici organiche e mezzi tecnici biologici.",
+    "do_not_publish_without_confirmation": [
+      "telefono, email, indirizzo, partita IVA o altri dati di contatto",
+      "numero di aziende/impianti seguiti",
+      "collaborazioni future non documentate pubblicamente, incluse eventuali attività con Agriterra",
+      "immagini tratte da articoli, programmi o social media"
+    ]
+  },
+  "service_cards_it": [
+    {
+      "title": "Piccoli frutti",
+      "text": "Supporto tecnico per mirtillo, lampone, mora, ribes, uva spina e altre specie minori, dalla valutazione dell’areale alla gestione dell’impianto.",
+      "sources": [
+        "S001",
+        "S004",
+        "S005"
+      ]
+    },
+    {
+      "title": "Fertilizzazione sostenibile",
+      "text": "Piani di fertilizzazione mirati con concimi biologici, sostanza organica di qualità, ammendanti e microrganismi utili.",
+      "sources": [
+        "S001",
+        "S005"
+      ]
+    },
+    {
+      "title": "Fuori suolo e vaso",
+      "text": "Adattamento dei protocolli tecnici a sistemi in pieno campo e fuori suolo, in particolare per mirtillo e lampone.",
+      "sources": [
+        "S005",
+        "S008",
+        "S010"
+      ]
+    },
+    {
+      "title": "Suolo, acqua e sito",
+      "text": "Analisi preliminare del sito, del suolo e dell’acqua per impostare scelte varietali e protocolli di gestione coerenti con il contesto produttivo.",
+      "sources": [
+        "S005",
+        "S012"
+      ]
+    },
+    {
+      "title": "Formazione tecnica",
+      "text": "Interventi e corsi su coltivazione biologica/integrata, gestione sostenibile del suolo e dell’acqua, piccoli frutti e protocolli di fertilizzazione.",
+      "sources": [
+        "S002",
+        "S012",
+        "S014"
+      ]
+    }
+  ],
+  "featured_links": [
+    {
+      "label": "Libro: Coltivazione biologica e integrata di piccoli frutti",
+      "url": "https://www.libreriauniversitaria.it/coltivazione-biologica-integrata-piccoli-frutti/book/9786200841117",
+      "sources": [
+        "S003"
+      ]
+    },
+    {
+      "label": "Macfrut 2026 / Berry Area",
+      "url": "https://www.macfrut.com/en/meeting/658/berry_area___technical_session",
+      "sources": [
+        "S010"
+      ]
+    },
+    {
+      "label": "Presentazione Macfrut 2025",
+      "url": "https://flipbook.ncx.it/italianberry/metodi-di-concimazione-innovativi-per-il-mirtillo-michele-ghezzi-berry-area-macfrut-2025.pdf",
+      "sources": [
+        "S008"
+      ]
+    },
+    {
+      "label": "Cosmogarden 2024",
+      "url": "https://www.cosmogarden.it/evento/coltivazione-biologica-integrata-di-piccoli-frutti-esperienze-in-impianti-in-nord-italia/",
+      "sources": [
+        "S002"
+      ]
+    }
+  ]
+}

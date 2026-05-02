@@ -1,0 +1,162 @@
+[
+  {
+    "claim_id": "C001",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "Dottore Agronomo Michele Ghezzi è un libero professionista iscritto all’ODAF Milano, attivo nella consulenza tecnico-agronomica.",
+    "suggested_website_copy_it": "Dottore Agronomo e consulente tecnico-agronomico, Michele Ghezzi supporta aziende agricole nella gestione sostenibile delle colture.",
+    "source_ids": "S001",
+    "use_location": "About / hero subtitle",
+    "notes": "ODAF-specific wording should still be confirmed directly with Michele, but public source supports it."
+  },
+  {
+    "claim_id": "C002",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "La sua attività riguarda aziende orticole, piccoli frutti, vivai, verde, cerealicoltura, floricoltura, frutticoltura, viticoltura, olivicoltura, canapa e aromatiche.",
+    "suggested_website_copy_it": "Consulenza per piccoli frutti, orticoltura, vivaismo, verde, colture erbacee e arboree, canapa e aromatiche.",
+    "source_ids": "S001",
+    "use_location": "Services",
+    "notes": "Consider simplifying on homepage to avoid an overly long list."
+  },
+  {
+    "claim_id": "C003",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "Consiglia l’uso di microrganismi utili come batteri PGPR, funghi antagonisti e micorrize, concimi biologici, humus di lombrico, leonardite e ammendanti.",
+    "suggested_website_copy_it": "Sviluppa piani tecnici basati su microrganismi utili, sostanza organica di qualità, concimi biologici e ammendanti selezionati.",
+    "source_ids": "S001",
+    "use_location": "Services / approach",
+    "notes": "Use consumer-friendly phrasing with technical terms available in service cards."
+  },
+  {
+    "claim_id": "C004",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "Elabora piani di fertilizzazione mirati in particolare per impianti di piccoli frutti.",
+    "suggested_website_copy_it": "Piani di fertilizzazione mirati per impianti di piccoli frutti.",
+    "source_ids": "S001",
+    "use_location": "Services / cards",
+    "notes": "Strong, concise service bullet."
+  },
+  {
+    "claim_id": "C005",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "È coautore con Nicola Noè del libro 'Coltivazione biologica e integrata di piccoli frutti: esperienze in impianti in Nord Italia'.",
+    "suggested_website_copy_it": "Coautore, con Nicola Noè, di 'Coltivazione biologica e integrata di piccoli frutti: esperienze in impianti in Nord Italia'.",
+    "source_ids": "S003; S004",
+    "use_location": "Publications",
+    "notes": "Include book details and link. Use cover image only with permission."
+  },
+  {
+    "claim_id": "C006",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "Il libro tratta lamponi, more, ribes, uva spina, mirtilli, lonicera, fragolina di bosco, condizioni pedoclimatiche, cultivar, materiali organici e microrganismi benefici.",
+    "suggested_website_copy_it": "Il volume approfondisce specie e cultivar di piccoli frutti, condizioni pedoclimatiche, pratiche colturali sostenibili, materiali organici e microrganismi benefici.",
+    "source_ids": "S004",
+    "use_location": "Publications description",
+    "notes": "Paraphrase; avoid long direct quotations."
+  },
+  {
+    "claim_id": "C007",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "Ha presentato a Macfrut 2025 un intervento su metodi di concimazione innovativi per il mirtillo.",
+    "suggested_website_copy_it": "Relatore a Macfrut 2025 / Berry Area con un intervento sui metodi di concimazione innovativi per il mirtillo.",
+    "source_ids": "S006; S007; S005",
+    "use_location": "Events / homepage proof point",
+    "notes": "Official Macfrut program is strongest source."
+  },
+  {
+    "claim_id": "C008",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "La presentazione Macfrut/Berry Area 2025 si concentra su coltivazione biologica e integrata, analisi del sito, suolo/acqua, varietà certificate, fertilizzazione biologica e difesa a basso impatto.",
+    "suggested_website_copy_it": "Gli interventi tecnici di Macfrut / Berry Area approfondiscono protocolli sostenibili per mirtillo e piccoli frutti, dalla valutazione del sito alla fertilizzazione biologica.",
+    "source_ids": "S005; S008; S009",
+    "use_location": "Events / expertise summary",
+    "notes": "Use broad summary, not exact program copy."
+  },
+  {
+    "claim_id": "C009",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "Ha presentato a Macfrut 2026 / Berry Area un intervento sui protocolli avanzati per la concimazione biologica del mirtillo in pieno campo e fuori suolo.",
+    "suggested_website_copy_it": "Relatore a Macfrut 2026 / Berry Area sui protocolli avanzati per la concimazione biologica del mirtillo in pieno campo e fuori suolo.",
+    "source_ids": "S010; S011",
+    "use_location": "Events / recent news",
+    "notes": "As of 2026-05-02 this is a recent event, not upcoming."
+  },
+  {
+    "claim_id": "C010",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "Ha tenuto lezioni nell’ambito del corso 'L’agricoltura verso la transizione ecologica' presso Fondazione Fojanini, su pratiche e tecniche per la gestione del suolo e dell’acqua nell’ottica del risparmio delle risorse.",
+    "suggested_website_copy_it": "Docente in corsi tecnici su gestione sostenibile di suolo e acqua nell’ambito della transizione ecologica in agricoltura.",
+    "source_ids": "S012",
+    "use_location": "Training / education",
+    "notes": "Avoid claiming year unless Michele confirms, since PDF has no obvious year in parsed text."
+  },
+  {
+    "claim_id": "C011",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "Ha svolto sperimentazioni con Centro Lombricoltura Toscano e Fondazione Fojanini su Humus CLT e Onus CLT per piccoli frutti, in particolare Mirtillo Gigante Americano.",
+    "suggested_website_copy_it": "Ha seguito sperimentazioni agronomiche su prodotti organici e biostimolanti applicati ai piccoli frutti, in collaborazione con realtà tecniche e sperimentali del settore.",
+    "source_ids": "S013",
+    "use_location": "Collaborations / sperimentazioni",
+    "notes": "If naming CLT/Fojanini on website, Michele should approve wording."
+  },
+  {
+    "claim_id": "C012",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "Ha partecipato come relatore al seminario Cosmogarden 2024 'Coltivazione biologica integrata di piccoli frutti: esperienze in impianti in Nord Italia'.",
+    "suggested_website_copy_it": "Relatore a Cosmogarden 2024 sul tema della coltivazione biologica integrata dei piccoli frutti.",
+    "source_ids": "S002",
+    "use_location": "Events",
+    "notes": "Official event page supports date/time/speakers."
+  },
+  {
+    "claim_id": "C013",
+    "status": "publishable_with_source",
+    "confidence": "high",
+    "claim_it": "Nel 2022 ha tenuto al Cosmogarden interventi su aspetti generali di coltivazione biologica/integrata e tecniche di concimazione sostenibile.",
+    "suggested_website_copy_it": "Ha tenuto interventi tecnici su coltivazione biologica/integrata e concimazione sostenibile dei piccoli frutti.",
+    "source_ids": "S014; S015",
+    "use_location": "Event archive",
+    "notes": "Use in archive, not necessarily homepage."
+  },
+  {
+    "claim_id": "C014",
+    "status": "confirm_before_publishing",
+    "confidence": "medium",
+    "claim_it": "Collaborazione con Agriterra o corsi nelle scuole.",
+    "suggested_website_copy_it": "Da non pubblicare finché Michele non conferma e fornisce una fonte o descrizione aggiornata.",
+    "source_ids": "S019",
+    "use_location": "N/A",
+    "notes": "No reliable public source found in targeted searches."
+  },
+  {
+    "claim_id": "C015",
+    "status": "confirm_before_publishing",
+    "confidence": "medium",
+    "claim_it": "Contatti diretti, telefono, email, indirizzo, Partita IVA, numero di impianti/aziende seguite.",
+    "suggested_website_copy_it": "Da compilare solo con dati forniti direttamente da Michele.",
+    "source_ids": "S017; family-provided notes",
+    "use_location": "Contact / About",
+    "notes": "Avoid scraping contact details from public pages. Ask Michele what to publish."
+  },
+  {
+    "claim_id": "C016",
+    "status": "archive_only_after_confirmation",
+    "confidence": "medium",
+    "claim_it": "Nel 2015 Michele Ghezzi risulta citato in un evento con Filnova sui mezzi tecnici per agricoltura integrata e biologica.",
+    "suggested_website_copy_it": "Usare solo in CV completo o cronologia, non come affiliazione attuale.",
+    "source_ids": "S016",
+    "use_location": "Archive CV only",
+    "notes": "Older source; not suitable for homepage."
+  }
+]

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 760" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrazione agronomica con filari, suolo e radici</title>
+  <desc id="desc">Un paesaggio stilizzato con filari coltivati, bacche, gocce d'acqua e profilo del suolo.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f1dd"/>
+      <stop offset="100%" stop-color="#e8f0e3"/>
+    </linearGradient>
+    <linearGradient id="soil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8f6337"/>
+      <stop offset="100%" stop-color="#5f4123"/>
+    </linearGradient>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7db05e"/>
+      <stop offset="100%" stop-color="#305e39"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="760" rx="40" fill="url(#sky)"/>
+  <circle cx="768" cy="126" r="78" fill="#f5d38b" opacity="0.9"/>
+  <path d="M0 320C118 262 210 250 312 272C430 298 500 374 618 382C734 390 830 334 960 278V760H0Z" fill="#dce7d3"/>
+  <path d="M0 374C132 314 252 300 362 326C462 350 558 420 694 420C796 420 874 386 960 344V760H0Z" fill="#bfd6b3"/>
+  <path d="M0 430C130 364 246 354 360 378C498 406 594 482 710 488C814 492 886 454 960 404V760H0Z" fill="url(#field)"/>
+  <path d="M0 514H960V760H0Z" fill="url(#soil)"/>
+  <g fill="none" stroke="#d9b17a" stroke-linecap="round" stroke-width="10" opacity="0.78">
+    <path d="M80 458C164 426 240 414 336 432"/>
+    <path d="M212 478C302 444 382 434 486 454"/>
+    <path d="M390 506C490 468 586 466 704 492"/>
+    <path d="M596 526C688 496 772 500 870 522"/>
+  </g>
+  <g fill="#6fbe78">
+    <ellipse cx="138" cy="448" rx="28" ry="16"/>
+    <ellipse cx="182" cy="438" rx="30" ry="18"/>
+    <ellipse cx="250" cy="454" rx="28" ry="16"/>
+    <ellipse cx="326" cy="448" rx="34" ry="18"/>
+    <ellipse cx="430" cy="470" rx="30" ry="18"/>
+    <ellipse cx="520" cy="482" rx="34" ry="18"/>
+    <ellipse cx="654" cy="506" rx="30" ry="18"/>
+    <ellipse cx="766" cy="516" rx="30" ry="18"/>
+  </g>
+  <g fill="#7b1631">
+    <circle cx="176" cy="454" r="10"/>
+    <circle cx="198" cy="462" r="10"/>
+    <circle cx="160" cy="470" r="10"/>
+    <circle cx="324" cy="462" r="10"/>
+    <circle cx="348" cy="470" r="10"/>
+    <circle cx="306" cy="478" r="10"/>
+    <circle cx="514" cy="494" r="10"/>
+    <circle cx="536" cy="502" r="10"/>
+    <circle cx="492" cy="508" r="10"/>
+  </g>
+  <g fill="none" stroke="#e6dbc9" stroke-linecap="round" stroke-width="5" opacity="0.95">
+    <path d="M142 514C134 560 126 598 118 634C112 664 100 684 84 700"/>
+    <path d="M180 514C188 558 202 594 224 628C240 652 256 676 278 696"/>
+    <path d="M302 514C286 560 280 604 284 646C286 670 300 690 322 706"/>
+    <path d="M420 514C430 566 438 616 444 664C448 684 462 700 484 712"/>
+    <path d="M548 514C562 556 580 594 606 628C626 654 650 682 684 706"/>
+    <path d="M706 514C696 566 688 612 684 652C682 676 668 696 642 712"/>
+    <path d="M828 514C836 560 846 602 860 642C870 670 888 692 912 706"/>
+  </g>
+  <g fill="#f7fbf5" opacity="0.9">
+    <path d="M128 164C108 196 94 228 94 256C94 286 114 306 146 306C180 306 204 280 204 246C204 210 178 180 154 152C146 142 134 142 128 164Z"/>
+    <path d="M830 222C814 248 804 270 804 288C804 308 818 322 840 322C864 322 882 304 882 280C882 252 862 226 846 204C840 196 834 198 830 222Z"/>
+  </g>
+  <g fill="#fffaf1" opacity="0.96">
+    <rect x="566" y="86" width="248" height="170" rx="24"/>
+  </g>
+  <g fill="#2f5c39">
+    <rect x="596" y="126" width="108" height="12" rx="6"/>
+    <rect x="596" y="154" width="164" height="12" rx="6" opacity="0.72"/>
+    <rect x="596" y="182" width="134" height="12" rx="6" opacity="0.72"/>
+    <rect x="596" y="210" width="146" height="12" rx="6" opacity="0.72"/>
+  </g>
+  <g fill="#d7a74e">
+    <circle cx="762" cy="132" r="18"/>
+    <circle cx="792" cy="158" r="12"/>
+    <circle cx="750" cy="182" r="10"/>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 760" role="img" aria-labelledby="title desc">
+  <title id="title">Schema visivo dedicato ai piccoli frutti</title>
+  <desc id="desc">Una composizione editoriale con scheda tecnica, bacche e linee di protocollo.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fffaf2"/>
+      <stop offset="100%" stop-color="#f2eee3"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef3e8"/>
+      <stop offset="100%" stop-color="#dce8d7"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="760" rx="40" fill="#edf2e7"/>
+  <rect x="86" y="74" width="450" height="612" rx="32" fill="url(#paper)" stroke="#d7dfd0" stroke-width="4"/>
+  <rect x="132" y="134" width="188" height="20" rx="10" fill="#2f5c39"/>
+  <rect x="132" y="176" width="268" height="14" rx="7" fill="#54755a" opacity="0.78"/>
+  <rect x="132" y="206" width="246" height="14" rx="7" fill="#54755a" opacity="0.58"/>
+  <rect x="132" y="270" width="352" height="114" rx="22" fill="url(#card)"/>
+  <rect x="158" y="302" width="158" height="12" rx="6" fill="#2f5c39"/>
+  <rect x="158" y="332" width="232" height="10" rx="5" fill="#54755a" opacity="0.72"/>
+  <rect x="158" y="356" width="210" height="10" rx="5" fill="#54755a" opacity="0.56"/>
+  <rect x="132" y="426" width="352" height="178" rx="22" fill="#fffdf7" stroke="#d7dfd0" stroke-width="3"/>
+  <g fill="#7b1631">
+    <circle cx="646" cy="226" r="62"/>
+    <circle cx="748" cy="184" r="48"/>
+    <circle cx="796" cy="286" r="54"/>
+    <circle cx="680" cy="334" r="46"/>
+    <circle cx="584" cy="302" r="52"/>
+  </g>
+  <g fill="#6bb175">
+    <ellipse cx="646" cy="154" rx="26" ry="14"/>
+    <ellipse cx="742" cy="126" rx="24" ry="12"/>
+    <ellipse cx="812" cy="228" rx="24" ry="12"/>
+    <ellipse cx="696" cy="274" rx="26" ry="14"/>
+    <ellipse cx="566" cy="238" rx="24" ry="12"/>
+  </g>
+  <g fill="none" stroke="#305e39" stroke-linecap="round" stroke-width="12">
+    <path d="M590 462H860"/>
+    <path d="M590 528H846"/>
+    <path d="M590 594H828"/>
+  </g>
+  <g fill="#d7a74e">
+    <circle cx="610" cy="462" r="16"/>
+    <circle cx="610" cy="528" r="16"/>
+    <circle cx="610" cy="594" r="16"/>
+  </g>
+  <rect x="548" y="410" width="332" height="242" rx="30" fill="#fffaf1" stroke="#d7dfd0" stroke-width="4"/>
+  <rect x="590" y="164" width="248" height="210" rx="28" fill="none" stroke="#fffaf1" stroke-width="6" opacity="0.56"/>
+</svg>

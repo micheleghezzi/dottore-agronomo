@@ -1,0 +1,128 @@
+[
+  {
+    "asset_id": "A001",
+    "asset_type": "link card",
+    "name": "Book listing: Coltivazione biologica e integrata di piccoli frutti",
+    "source_url": "https://www.libreriauniversitaria.it/coltivazione-biologica-integrata-piccoli-frutti/book/9786200841117",
+    "recommended_action": "Create a Publications card linking to the book listing. Use the title/subtitle and author info. Ask Michele for cover image rights or original cover file before embedding.",
+    "rights_status": "safe_to_link; permission_needed_for_cover_image",
+    "priority": "high"
+  },
+  {
+    "asset_id": "A002",
+    "asset_type": "link card",
+    "name": "ItalianBerry book article",
+    "source_url": "https://italianberry.it/news/piccoli-frutti-un8217analisi-degli-impianti-in-italia-settentrionale-1405",
+    "recommended_action": "Create a 'Rassegna stampa' or 'Approfondimenti' card. Link out. Use a short paraphrased description.",
+    "rights_status": "safe_to_link; do_not_reuse_images_without_permission",
+    "priority": "high"
+  },
+  {
+    "asset_id": "A003",
+    "asset_type": "link card",
+    "name": "ItalianBerry Macfrut 2025 article",
+    "source_url": "https://italianberry.it/news/tecniche-sostenibili-di-coltivazione-dei-piccoli-frutti-i-nuovi-protocolli-macfrut-2025",
+    "recommended_action": "Create a recent-news card on Macfrut 2025 / Berry Area. Link to the article.",
+    "rights_status": "safe_to_link; do_not_reuse_images_without_permission",
+    "priority": "high"
+  },
+  {
+    "asset_id": "A004",
+    "asset_type": "external PDF link",
+    "name": "Macfrut/Berry Area 2025 presentation PDF",
+    "source_url": "https://flipbook.ncx.it/italianberry/metodi-di-concimazione-innovativi-per-il-mirtillo-michele-ghezzi-berry-area-macfrut-2025.pdf",
+    "recommended_action": "Add a button: 'Apri la presentazione Macfrut 2025'. Link externally. Do not host a local copy unless permission granted.",
+    "rights_status": "safe_to_link; permission_needed_to_embed_or_rehost",
+    "priority": "high"
+  },
+  {
+    "asset_id": "A005",
+    "asset_type": "link card",
+    "name": "Macfrut 2025 official program",
+    "source_url": "https://www.macfrut.com/en/meeting/563/",
+    "recommended_action": "Use as official source for a speaker/event card.",
+    "rights_status": "safe_to_link",
+    "priority": "high"
+  },
+  {
+    "asset_id": "A006",
+    "asset_type": "link card",
+    "name": "Macfrut 2026 official technical session",
+    "source_url": "https://www.macfrut.com/en/meeting/658/berry_area___technical_session",
+    "recommended_action": "Use as official source for a recent-event card.",
+    "rights_status": "safe_to_link",
+    "priority": "high"
+  },
+  {
+    "asset_id": "A007",
+    "asset_type": "external presentation index",
+    "name": "ItalianBerry 2026 presentation index",
+    "source_url": "https://italianberry.it/news/berry-area-2026-sfoglia-e-scarica-tutte-le-presentazioni",
+    "recommended_action": "Link from the event card if the 2026 presentation is available and Michele approves.",
+    "rights_status": "safe_to_link; permission_needed_to_embed_or_rehost",
+    "priority": "medium-high"
+  },
+  {
+    "asset_id": "A008",
+    "asset_type": "link card",
+    "name": "Cosmogarden 2024 event page",
+    "source_url": "https://www.cosmogarden.it/evento/coltivazione-biologica-integrata-di-piccoli-frutti-esperienze-in-impianti-in-nord-italia/",
+    "recommended_action": "Use in event archive; link externally.",
+    "rights_status": "safe_to_link; images_permission_needed",
+    "priority": "medium-high"
+  },
+  {
+    "asset_id": "A009",
+    "asset_type": "external PDF link",
+    "name": "Fondazione Fojanini course PDF",
+    "source_url": "https://www.fondazionefojanini.it/files/news_attachments/653/Corso%20transizione%20ecologica.docx.pdf",
+    "recommended_action": "Use as source for 'Formazione' section. Link externally if desired.",
+    "rights_status": "safe_to_link; permission_needed_to_rehost",
+    "priority": "medium"
+  },
+  {
+    "asset_id": "A010",
+    "asset_type": "link card",
+    "name": "CLT / Fondazione Fojanini experimentation article",
+    "source_url": "https://www.lombricolturaclt.it/sperimentazione-dei-prodotti-clt-alla-fondazione-fojanini/",
+    "recommended_action": "Use in 'Sperimentazioni e collaborazioni' section after Michele confirms exact relationship wording.",
+    "rights_status": "safe_to_link; logos_images_permission_needed",
+    "priority": "medium-high"
+  },
+  {
+    "asset_id": "A011",
+    "asset_type": "needed first-party asset",
+    "name": "Professional headshot of Michele",
+    "source_url": "ask_Michele",
+    "recommended_action": "Ask Michele for a high-resolution portrait he owns or has permission to use. Use as main About/hero image.",
+    "rights_status": "must_be_supplied_or_licensed_by_Michele",
+    "priority": "high"
+  },
+  {
+    "asset_id": "A012",
+    "asset_type": "needed first-party asset",
+    "name": "Field / greenhouse / small-fruit photos",
+    "source_url": "ask_Michele",
+    "recommended_action": "Ask for 5-10 original photos from farms, blueberries, raspberries, soilless systems, soil/fertigation work. Avoid client-identifiable locations unless clients approve.",
+    "rights_status": "must_be_supplied_or_licensed_by_Michele; client_permission_if_identifiable",
+    "priority": "high"
+  },
+  {
+    "asset_id": "A013",
+    "asset_type": "needed first-party asset",
+    "name": "Book cover image",
+    "source_url": "ask_Michele_or_publisher",
+    "recommended_action": "Ask Michele whether he has the right to show the cover on his personal site. If yes, place it in Publications. If not, use text link only.",
+    "rights_status": "permission_needed",
+    "priority": "medium-high"
+  },
+  {
+    "asset_id": "A014",
+    "asset_type": "logo set",
+    "name": "Macfrut, ItalianBerry, Cosmogarden, Fondazione Fojanini, CLT logos",
+    "source_url": "public_sites",
+    "recommended_action": "Prefer text links. Use logos only if brand guidelines or explicit permission permit. Do not scrape images.",
+    "rights_status": "permission_or_brand_guideline_review_needed",
+    "priority": "low-medium"
+  }
+]
