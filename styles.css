@@ -543,6 +543,98 @@ h3 {
   font-size: 1rem;
 }
 
+.project-list {
+  display: grid;
+  gap: 24px;
+}
+
+.project-gallery {
+  overflow: hidden;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.project-gallery-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 22px 24px 18px;
+  align-items: end;
+}
+
+.project-gallery-header h2 {
+  margin-bottom: 0;
+  font-size: clamp(1.45rem, 2.7vw, 2.2rem);
+}
+
+.gallery-controls {
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+}
+
+.gallery-control {
+  display: grid;
+  width: 44px;
+  height: 44px;
+  place-items: center;
+  color: var(--brand-dark);
+  background: var(--brand-soft);
+  border: 1px solid #d4e2cf;
+  border-radius: 50%;
+  cursor: pointer;
+  font: inherit;
+  font-size: 1.3rem;
+  font-weight: 800;
+}
+
+.gallery-control:hover {
+  background: #d8e8d2;
+}
+
+.gallery-track {
+  display: flex;
+  gap: 14px;
+  overflow-x: auto;
+  padding: 0 24px 24px;
+  scroll-behavior: smooth;
+  scroll-padding-inline: 24px;
+  scroll-snap-type: x mandatory;
+  scrollbar-color: var(--line-strong) transparent;
+}
+
+.project-photo {
+  flex: 0 0 min(78vw, 680px);
+  overflow: hidden;
+  margin: 0;
+  background: #e9efe5;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  scroll-snap-align: start;
+}
+
+.project-photo img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.project-photo figcaption {
+  padding: 8px 12px;
+  color: var(--muted);
+  background: var(--surface-strong);
+  border-top: 1px solid var(--line);
+  font-size: 0.88rem;
+  text-align: right;
+}
+
+.gallery-note {
+  margin-bottom: 0;
+  color: var(--muted);
+}
+
 .book-data li {
   padding: 10px 0;
 }
@@ -655,5 +747,19 @@ h3 {
 
   .footer-links {
     justify-content: flex-start;
+  }
+
+  .project-gallery-header {
+    align-items: start;
+    padding: 18px 18px 14px;
+  }
+
+  .gallery-track {
+    padding: 0 18px 18px;
+    scroll-padding-inline: 18px;
+  }
+
+  .project-photo {
+    flex-basis: 86vw;
   }
 }
